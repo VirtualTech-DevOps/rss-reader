@@ -1,4 +1,4 @@
-baseURL = 'https://vtj.ttanaka.github.io/rss-reader'
+baseURL = 'https://virtualtech-devops.github.io/rss-reader'
 languageCode = 'ja-jp'
 title = 'My RSS Reader'
 theme = 'smigle'
