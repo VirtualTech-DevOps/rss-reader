@@ -19,7 +19,7 @@ const util = require('util');
         for (let i = 1; i < data.length; i++) tag.push(data[i]);
 
         let feed = await parser.parseURL(url);
-        console.log(feed.title);
+        console.log(feed.title + ': ' + feed.items.length + ' items');
 
         feed.items.forEach(item => {
             let hash = crypto.createHash('sha1').update(item.title).digest('hex').slice(-10);
