@@ -5,4 +5,4 @@ tags = ["kuriyama","news"]
 +++
 
 
-[link](https://www.town.kuriyama.hokkaido.jp/site/matikon/27872.html)
+[[source]](https://www.town.kuriyama.hokkaido.jp/site/matikon/27872.html)

@@ -62,4 +62,4 @@ I’d love to get your feedback! 💬 If you have any feature suggestions or ide
 submitted by [/u/Professional\_Low\_253](https://www.reddit.com/user/Professional_Low_253)  
 [\[link\]](https://www.reddit.com/r/commandline/comments/1fgpcg5/zipstreamcli_stream_and_view_zip_file_contents/) [\[comments\]](https://www.reddit.com/r/commandline/comments/1fgpcg5/zipstreamcli_stream_and_view_zip_file_contents/)
 
-[link](https://www.reddit.com/r/commandline/comments/1fgpcg5/zipstreamcli_stream_and_view_zip_file_contents/)
+[[source]](https://www.reddit.com/r/commandline/comments/1fgpcg5/zipstreamcli_stream_and_view_zip_file_contents/)

@@ -8,4 +8,4 @@ tags = ["reddit","wm"]
 submitted by [/u/Qlaive](https://www.reddit.com/user/Qlaive)  
 [\[link\]](https://www.reddit.com/gallery/1fjd4b8) [\[comments\]](https://www.reddit.com/r/unixporn/comments/1fjd4b8/awesome_first_rice_finally_gave_up_on_trying_to/)
 
-[link](https://www.reddit.com/r/unixporn/comments/1fjd4b8/awesome_first_rice_finally_gave_up_on_trying_to/)
+[[source]](https://www.reddit.com/r/unixporn/comments/1fjd4b8/awesome_first_rice_finally_gave_up_on_trying_to/)

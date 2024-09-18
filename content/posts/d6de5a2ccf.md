@@ -8,4 +8,4 @@ tags = ["reddit","cli"]
 submitted by [/u/mistlysmoly](https://www.reddit.com/user/mistlysmoly)  
 [\[link\]](https://i.redd.it/u57w3odblyu81.jpg) [\[comments\]](https://www.reddit.com/r/commandline/comments/1fgxzgd/draw_math_formulas_in_ascii_via_command_line/)
 
-[link](https://www.reddit.com/r/commandline/comments/1fgxzgd/draw_math_formulas_in_ascii_via_command_line/)
+[[source]](https://www.reddit.com/r/commandline/comments/1fgxzgd/draw_math_formulas_in_ascii_via_command_line/)
