@@ -1,4 +1,6 @@
 baseURL = 'https://virtualtech-devops.github.io/rss-reader/'
+relativeURLs = true
+canonifyURLs = true
 languageCode = 'ja-jp'
 title = 'My RSS Reader'
 theme = 'smigle'
