@@ -14,7 +14,6 @@ const util = require('util');
     const reader = readline.createInterface({input: stream});
     reader.on('line', async line => {
         data = line.split(' ');
-        console.log(data);
         let url = data[0];
         let tag = [];
         for (let i = 1; i < data.length; i++) tag.push(data[i]);
@@ -36,7 +35,7 @@ const util = require('util');
             let markdown = '';
             if ('content' in item) markdown = turndownService.turndown(item.content);
 
-            let text = util.format('+++\ntitle = """%s"""\ndate = %s\ntags = %s\n+++\n%s\n', title, date, JSON.stringify(tag), markdown);
+            let text = util.format('+++\ntitle = """%s"""\ndate = %s\ntags = %s\n+++\n%s\n\n[source](%s)\n', title, date, JSON.stringify(tag), markdown, item.link);
 
             fs.writeFileSync(filepath, text, err => { if (err) { console.log(err); throw(err) } });
         });

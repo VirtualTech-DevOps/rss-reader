@@ -4,3 +4,5 @@ date = 2024-07-25T00:00:00+09:00
 tags = ["kuriyama","news"]
 +++
 
+
+[link](https://www.town.kuriyama.hokkaido.jp/soshiki/43/1765.html)

@@ -19,3 +19,5 @@ At the moment, It features:
 
 submitted by [/u/NghangPho](https://www.reddit.com/user/NghangPho)  
 [\[link\]](https://www.reddit.com/r/commandline/comments/1fe4pxf/ytui_an_ytfzf_alternative/) [\[comments\]](https://www.reddit.com/r/commandline/comments/1fe4pxf/ytui_an_ytfzf_alternative/)
+
+[link](https://www.reddit.com/r/commandline/comments/1fe4pxf/ytui_an_ytfzf_alternative/)

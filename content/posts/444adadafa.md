@@ -7,3 +7,5 @@ tags = ["reddit","wm"]
 
 submitted by [/u/Yrmitz](https://www.reddit.com/user/Yrmitz)  
 [\[link\]](https://i.redd.it/vjmy6b7rocpd1.png) [\[comments\]](https://www.reddit.com/r/unixporn/comments/1fiw2r4/river_my_calm_environment/)
+
+[link](https://www.reddit.com/r/unixporn/comments/1fiw2r4/river_my_calm_environment/)
