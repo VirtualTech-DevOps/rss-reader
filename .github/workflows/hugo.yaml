@@ -50,7 +50,7 @@ jobs:
         run: node main.js
       - name: Commit files
         run: |
-          if [[ -n "$(git diff --name-only HEAD^..HEAD -- content/posts)" ]]; then
+          if git ls-files -o --exclude-standard | grep -q content/posts; then
               git config user.name github-actions
               git config user.email github-actions@github.com
               git add content/posts
