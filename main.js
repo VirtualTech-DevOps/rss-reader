@@ -31,6 +31,7 @@ const util = require('util');
             let date = item.isoDate;
             if ('pubDate' in item) date = item.pubDate;
             else if ('date' in item) date = item.date;
+            if (date != "") date = new Date(date).toISOString();
 
             let markdown = '';
             if ('content' in item) markdown = turndownService.turndown(item.content);

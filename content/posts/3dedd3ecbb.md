@@ -1,6 +1,6 @@
 +++
 title = """CFnテンプレートをHCLにコンバート"""
-date = Mon, 22 Jul 2024 11:54:37 +0900
+date = 2024-07-22T02:54:37.000Z
 tags = ["vtj","devops"]
 +++
 私はCloudFormationテンプレートが苦手です。CloudFormationが悪いツールだとは思いませんが、どうも慣れないというかなんというか。Terraformの方が簡単に書ける印象です。書くのが苦手ならば、もちろん読むのも苦手でして。たまにCFnテンプレートを渡されて、Terraformにしといてちょっと言われるのですが、よくわからないので渡されたテンプレートからCFnスタックを作成し、それをTerraformのimportでTerraform化していました。が、ちょっと検索するとcf2tfなるツールが・・・
