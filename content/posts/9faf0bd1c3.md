@@ -24,7 +24,7 @@ Zip-Stream-CLI allows you to stream, extract, and display the contents of a remo
 Demo:
 -----
 
-_Processing img 2kjdi6jassod1..._
+!\[img\](2kjdi6jassod1 "Zip Stream CLI Demo")
 
 Why did I create it?
 --------------------
