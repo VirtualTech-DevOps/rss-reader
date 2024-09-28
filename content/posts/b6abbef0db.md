@@ -3,9 +3,9 @@ title = """facad - An Emoji-based Modern Alternative to ls"""
 date = 2024-09-28T18:34:42.000Z
 tags = ["reddit","cli"]
 +++
-[![facad - An Emoji-based Modern Alternative to ls](https://b.thumbs.redditmedia.com/-AEIjq4hc2z3hlETIqb_idpf1JnPFObiI64MJTgMZEs.jpg "facad - An Emoji-based Modern Alternative to ls")](https://www.reddit.com/r/commandline/comments/1frkwux/facad_an_emojibased_modern_alternative_to_ls/)
+[![facad - An Emoji-based Modern Alternative to ls](https://a.thumbs.redditmedia.com/Poffy5L0czV3ZTgqPtqQZHgwhXsBPHmi1yN4pbRXin4.jpg "facad - An Emoji-based Modern Alternative to ls")](https://www.reddit.com/r/commandline/comments/1frkwux/facad_an_emojibased_modern_alternative_to_ls/)
 
-[Welcome to 2024 listinig: facad in action!](https://preview.redd.it/oqjf2k4illrd1.jpg?width=1764&format=pjpg&auto=webp&s=28aa0273b087d0d1eb7317ae5a79ce5d8344c46b)
+[Welcome to 2024 listing: facad in action!](https://preview.redd.it/cts8h37tnlrd1.jpg?width=1764&format=pjpg&auto=webp&s=f654007ab34374469cbb881fc0b5cbd36edde66a)
 
 **Hey, command line commanders!**
 
