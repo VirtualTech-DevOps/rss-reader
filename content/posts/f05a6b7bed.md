@@ -21,7 +21,7 @@ or by using a _yaml_ file listing tools and conditions for matching and download
 
 Can be downloaded and tested in a docker container with:
 
-    curl -sSL | sh -s -- -v v0.0 -o ~/.local/binhttps://raw.githubusercontent.com/idelchi/godyl/refs/heads/dev/scripts/install.sh 
+    curl -sSL https://raw.githubusercontent.com/idelchi/godyl/refs/heads/dev/scripts/install.sh | sh -s -- -v v0.0 -o ~/.local/bin 
 
 followed by
 
