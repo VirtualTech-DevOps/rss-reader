@@ -25,7 +25,7 @@ Can be downloaded and tested in a docker container with:
 
 followed by
 
-`godyl update`
+`godyl —update`
 
 or with
 
