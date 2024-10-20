@@ -21,7 +21,7 @@ or by using a _yaml_ file listing tools and conditions for matching and download
 
 Can be downloaded and tested in a docker container with:
 
-    curl -sSL https://raw.githubusercontent.com/idelchi/godyl/refs/heads/dev/scripts/install.sh | sh -s -- -v v0.0 -o ~/.local/bin 
+    curl -sSL https://raw.githubusercontent.com/idelchi/godyl/refs/heads/main/scripts/install.sh | sh -s -- -v v0.0 -o ~/.local/bin 
 
 followed by
 
@@ -29,7 +29,7 @@ followed by
 
 or with
 
-    go install github.com/idelchi/godyl/cmd/godyl@latest 
+    go install github.com/idelchi/godyl/cmd/godyl@main 
 
 submitted by [/u/Hour-Pie7948](https://www.reddit.com/user/Hour-Pie7948)  
 [\[link\]](https://www.reddit.com/r/commandline/comments/1g623ci/tool_for_batch_downloading_assets_from_github/) [\[comments\]](https://www.reddit.com/r/commandline/comments/1g623ci/tool_for_batch_downloading_assets_from_github/)
