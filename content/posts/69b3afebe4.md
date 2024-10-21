@@ -9,11 +9,11 @@ What QuickSched does is it takes your tasks, events (i.e. time blocks, recurring
 
 Command entry was inspired by TaskWarrior, but ours goes a step further by supporting flexible argument without prefacing the type due to our custom built parser (it flows much more naturally).
 
-TaskWarrior:
+**TaskWarrior:**
 
     task add Class2 +C2 recur:weekly 11:00-12:45 rec:mon,wed,fri 
 
-QuickSched:
+**QuickSched:**
 
     event true @ mon wed fri 11-12:45 +C2 "Class2" 
 
