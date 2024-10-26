@@ -25,7 +25,7 @@ Let me know what you think. I'm considering porting the project over to Go w/ Fy
 
 GitHub: [https://github.com/AndrewRoe34/quick-sched](https://github.com/AndrewRoe34/quick-sched)
 
-submitted by [/u/Lanky\_Reward\_6037](https://www.reddit.com/user/Lanky_Reward_6037)  
+  
 [\[link\]](https://www.reddit.com/r/commandline/comments/1g8t9zl/i_created_a_taskwarrior_type_tool_but_for/) [\[comments\]](https://www.reddit.com/r/commandline/comments/1g8t9zl/i_created_a_taskwarrior_type_tool_but_for/)
 
 [[source]](https://www.reddit.com/r/commandline/comments/1g8t9zl/i_created_a_taskwarrior_type_tool_but_for/)
