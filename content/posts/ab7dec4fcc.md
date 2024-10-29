@@ -11,7 +11,7 @@ First of all, I am aware of other initiatives. Let me get straight to why this m
 
 This tool makes LLMs available as text manipulation entities in the CLI; you pipe text in and you get some result. `smartcat` is designed to make this pattern and all its many applications as efficient and straightforward as possible.
 
-You can pipe in a simple question, some text to reformat, explain a stack trace, reformat some code, write the v0 of some function to iterate on, a quick script etc.
+You can pipe in a simple question, some text to reformat, explain a stack trace, refactor some code, write the v0 of some function to iterate on, a quick script etc.
 
 In the end, with it being available in terminal and editor (vim, kakoune, helix... all [support piping selection into the CLI](https://github.com/efugier/smartcat/?tab=readme-ov-file#integrating-with-editors)), it completely eliminated the need for Copilot and other completion tools for me. I much prefer the workflow and control this offers.
 
