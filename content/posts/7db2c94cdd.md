@@ -1,15 +1,15 @@
 +++
 title = """[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal"""
-date = 2024-11-09T21:48:49.000Z
+date = 2024-11-09T22:30:21.000Z
 tags = ["reddit","cli"]
 +++
-[![[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal](https://external-preview.redd.it/B1R7goUj5YJioiUWp6koXm7ITlF6gPTbUaWQNkmXtkU.jpg?width=640&crop=smart&auto=webp&s=0a3a6aa9048ae1e598a3fb40a4dd924e6ef7c937 "[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal")](https://www.reddit.com/r/commandline/comments/1gnkw0l/devlog_01_gmailtui_replicating_the_gmailweb/)
+[![[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal](https://external-preview.redd.it/B1R7goUj5YJioiUWp6koXm7ITlF6gPTbUaWQNkmXtkU.jpg?width=640&crop=smart&auto=webp&s=0a3a6aa9048ae1e598a3fb40a4dd924e6ef7c937 "[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal")](https://www.reddit.com/r/commandline/comments/1gnlscc/devlog_01_gmailtui_replicating_the_gmailweb/)
 
 [Gmail-TUI](https://github.com/dev-vaayen/Gmail-TUI/) is a simple TUI application that aims to replicate the Gmail Web-UI in a TUI-Environment. Is this even possible? I don't even know yet but let's find out! Special thanks to Rivo for their [TUI Library](https://github.com/rivo/tview/tree/master).
 
 [Composing & sending a mail using Gmail-TUI](https://i.redd.it/h7hl604u4yzd1.gif)
 
-As shown above, today I was able to implement the composing and sending of Emails \[using [this SMTP guide](https://www.geeksforgeeks.org/sending-email-using-smtp-in-golang/). The source-code is available in the [Project-repository](https://github.com/dev-vaayen/Gmail-TUI/blob/main/README.md) and modifying the code to enhance the project is most welcome!
+As shown above, today I was able to implement the composing and sending of Emails using [this SMTP guide](https://www.geeksforgeeks.org/sending-email-using-smtp-in-golang/). The source-code is available in the [Project-repository](https://github.com/dev-vaayen/Gmail-TUI/blob/main/README.md) and modifying the code to enhance the project is most welcome!
 
 Some Background
 ===============
@@ -35,6 +35,6 @@ To complete this lack of TUI-Application, I would like the Gmail-TUI to borderli
 I will be trying to work on the login-page for now, where the user will enter their credentials, click on login and be redirected to the next page where they would be able to compose mails. Like the web-version, showing the Inbox after signing-in should be done but since I am still studying IMPS that will help with receiving emails, I will be using the Compose-mail section as the placeholder for now.
 
 submitted by [/u/dev-vaayen](https://www.reddit.com/user/dev-vaayen)  
-[\[link\]](https://www.reddit.com/r/commandline/comments/1gnkw0l/devlog_01_gmailtui_replicating_the_gmailweb/) [\[comments\]](https://www.reddit.com/r/commandline/comments/1gnkw0l/devlog_01_gmailtui_replicating_the_gmailweb/)
+[\[link\]](https://www.reddit.com/r/commandline/comments/1gnlscc/devlog_01_gmailtui_replicating_the_gmailweb/) [\[comments\]](https://www.reddit.com/r/commandline/comments/1gnlscc/devlog_01_gmailtui_replicating_the_gmailweb/)
 
-[[source]](https://www.reddit.com/r/commandline/comments/1gnkw0l/devlog_01_gmailtui_replicating_the_gmailweb/)
+[[source]](https://www.reddit.com/r/commandline/comments/1gnlscc/devlog_01_gmailtui_replicating_the_gmailweb/)
