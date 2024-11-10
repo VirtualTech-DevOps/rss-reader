@@ -3,13 +3,13 @@ title = """[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Termi
 date = 2024-11-09T22:30:21.000Z
 tags = ["reddit","cli"]
 +++
-[![[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal](https://external-preview.redd.it/B1R7goUj5YJioiUWp6koXm7ITlF6gPTbUaWQNkmXtkU.jpg?width=640&crop=smart&auto=webp&s=0a3a6aa9048ae1e598a3fb40a4dd924e6ef7c937 "[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal")](https://www.reddit.com/r/commandline/comments/1gnlscc/devlog_01_gmailtui_replicating_the_gmailweb/)
+[![[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal](https://external-preview.redd.it/kpfK-umJzs1v0uVwhhICSciKj1koEojHxw0Qa5VuA2c.gif?width=320&crop=smart&s=6a209b6a7d38395024b93c82a81d3eab97170bf2 "[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal")](https://www.reddit.com/r/commandline/comments/1gnlscc/devlog_01_gmailtui_replicating_the_gmailweb/)
 
 [Gmail-TUI](https://github.com/dev-vaayen/Gmail-TUI/) is a simple TUI application that aims to replicate the Gmail Web-UI in a TUI-Environment. Is this even possible? I don't even know yet but let's find out! Special thanks to Rivo for their [TUI Library](https://github.com/rivo/tview/tree/master).
 
 [Composing & sending a mail using Gmail-TUI](https://i.redd.it/h7hl604u4yzd1.gif)
 
-As shown above, today I was able to implement the composing and sending of Emails using [this SMTP guide](https://www.geeksforgeeks.org/sending-email-using-smtp-in-golang/). The source-code is available in the [Project-repository](https://github.com/dev-vaayen/Gmail-TUI/blob/main/README.md) and modifying the code to enhance the project is most welcome!
+As shown above (or [here](https://i.imgur.com/ZkHHSZp.gif) if the GIF didn't load), today I was able to implement the composing and sending of Emails using [this SMTP guide](https://www.geeksforgeeks.org/sending-email-using-smtp-in-golang/). The source-code is available in the [Project-repository](https://github.com/dev-vaayen/Gmail-TUI/blob/main/README.md) and modifying the code to enhance the project is most welcome!
 
 Some Background
 ===============
