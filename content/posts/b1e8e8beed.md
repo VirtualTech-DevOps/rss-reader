@@ -3,7 +3,7 @@ title = """[DevLog #02] Gmail-TUI: Replicating Gmail-Web's Navigation"""
 date = 2024-11-22T05:34:10.000Z
 tags = ["reddit","cli"]
 +++
-[![[DevLog #02] Gmail-TUI: Replicating Gmail-Web's Navigation](https://external-preview.redd.it/G1N6rGJTA3yUS3wOz9Jhj-NZE5UbsbP1I0PPp6eYu3E.jpg?width=640&crop=smart&auto=webp&s=d96969dbf04085fbe519a43305eb832204cb5fb3 "[DevLog #02] Gmail-TUI: Replicating Gmail-Web's Navigation")](https://www.reddit.com/r/commandline/comments/1gx0q6c/devlog_02_gmailtui_replicating_gmailwebs/)
+[![[DevLog #02] Gmail-TUI: Replicating Gmail-Web's Navigation](https://external-preview.redd.it/rEIzoI5Bv9EUhn2YlC-cI-dyz8gUoTRxbBpZgJkQud8.gif?width=320&crop=smart&s=56945789c67aba43eddf10d96ebd4803244356da "[DevLog #02] Gmail-TUI: Replicating Gmail-Web's Navigation")](https://www.reddit.com/r/commandline/comments/1gx0q6c/devlog_02_gmailtui_replicating_gmailwebs/)
 
 Thanks to all the kind support on the [previous DevLog](https://www.reddit.com/r/commandline/comments/1gnlscc/devlog_01_gmailtui_replicating_the_gmailweb/), I am back with the latest update on my Gmail-TUI application! If you are not aware of this [OpenSource project (contributions are most welcome!)](https://github.com/dev-vaayen/Gmail-TUI), I am developing a Terminal based UI application that aims to replicate the Gmail-Web experience in terminal, without the need of a Web-Browser.
 
@@ -12,7 +12,7 @@ Replicating Gmail-Web's Navigation
 
 [Navigating Gmail-TUI to send an email](https://i.redd.it/xi25nd9m3e2e1.gif)
 
-While the implementation of the Inbox feature is still a work in-progress, I have implemented a better navigation system within the Gmail-TUI than it's previous version - as can be seen above.
+While the implementation of the Inbox feature is still a work in-progress, I have implemented a better navigation system within the Gmail-TUI than it's previous version - as can be seen above (or [here](https://i.imgur.com/LGWmkLP.gif) if the GIF didn't load).
 
 In the earlier version, user would directly be prompted to compose a mail and send it, since that was the only feature available at that time. After the recent modifications however, a basic blueprint has been laid for how a User would be able to navigate within this application:
 
