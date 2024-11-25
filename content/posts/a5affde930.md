@@ -3,6 +3,8 @@ title = """starship false error"""
 date = 2024-11-23T19:57:25.000Z
 tags = ["reddit","cli"]
 +++
+HEY, THIS IS SOLVED
+
 stupid question..
 
 I keep getting this error everytime i open my terminal that has starship installed.
