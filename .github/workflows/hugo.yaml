@@ -113,6 +113,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Scan the webapplication
     needs: deploy
+    permissions:
+      issues: write
     steps:
       - name: ZAP Scan
         uses: zaproxy/action-full-scan@v0.12.0
