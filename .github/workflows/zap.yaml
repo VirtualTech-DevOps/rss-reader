@@ -1,0 +1,18 @@
+name: Run OWASP ZAP to the development
+on:
+  workflow_dispatch:
+
+jobs:
+  zap_scan:
+    runs-on: ubuntu-latest
+    name: Scan the webapplication
+    permissions:
+      issues: write
+    timeout-minutes: 5
+    steps:
+      - name: ZAP Scan
+        uses: zaproxy/action-full-scan@v0.12.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          docker_name: 'ghcr.io/zaproxy/zaproxy:stable'
+          target: 'https://virtualtech-devops.github.io/rss-reader/'
