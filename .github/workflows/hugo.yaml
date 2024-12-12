@@ -78,12 +78,11 @@ jobs:
         run: hugo list expired | sed '1d' | cut -d, -f1 | xargs -rd\\n git rm
       - name: Commit removed files
         run: |
-          if git status -s | tr -s ' ' | grep -q '^D content/posts'; then
-              git config user.name github-actions
-              git config user.email github-actions@github.com
-              git commit -m "deleted" -a
-              git push
-          fi
+          git status -s | grep -qE '^ ?D[ ]*content/posts' \
+          && git config user.name github-actions \
+          && git config user.email github-actions@github.com \
+          && git commit -m "deleted" -a \
+          && git push
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
