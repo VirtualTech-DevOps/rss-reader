@@ -81,6 +81,7 @@ jobs:
           git status -s | grep -qE '^ ?D[ ]*content/posts' \
           && git config user.name github-actions && git config user.email github-actions@github.com \
           && git commit -m "Remove expired content" -a && git push
+          || exit 0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
