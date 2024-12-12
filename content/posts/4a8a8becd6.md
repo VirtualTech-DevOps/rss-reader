@@ -1,6 +1,7 @@
 +++
 title = """What are your thoughts on awesome lists?"""
 date = 2024-10-11T03:37:04.000Z
+expiryDate = 2024-10-11T03:37:04.000Z
 tags = ["reddit","cli"]
 +++
 **TLDR**: I used to obsess over and spend lots of time on software lists when trying to improve my desktop workflow, but after seeing how many different ones I would stop using after a while, I have stopped obsessing. Awesome lists are still good for getting a taste of an ecosystem but don't let them overwhelm you.

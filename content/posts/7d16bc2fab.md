@@ -1,6 +1,7 @@
 +++
 title = """Zoxide VS cd command"""
 date = 2024-11-09T12:29:28.000Z
+expiryDate = 2024-11-09T12:29:28.000Z
 tags = ["reddit","cli"]
 +++
 [![Zoxide VS cd command](https://external-preview.redd.it/upXxTf7sX7xAwRS2bbiTqiyLMa_KHuVtBOqT-jzMWvk.jpg?width=320&crop=smart&auto=webp&s=0cfa57d60e7dbadf29dfd1dc9a99052dd247edde "Zoxide VS cd command")](https://www.reddit.com/r/commandline/comments/1gn91rk/zoxide_vs_cd_command/)

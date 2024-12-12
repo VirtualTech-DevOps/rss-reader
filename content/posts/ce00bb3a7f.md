@@ -1,6 +1,7 @@
 +++
 title = """MyTimer: A Geeky Timer for Terminal Enthusiasts"""
 date = 2024-10-09T14:57:58.000Z
+expiryDate = 2024-10-09T14:57:58.000Z
 tags = ["reddit","cli"]
 +++
 [![MyTimer: A Geeky Timer for Terminal Enthusiasts](https://external-preview.redd.it/7py1fE-H8bMavs3PnWpNlwY5jPoB-cWxmqypELWVD5k.jpg?width=640&crop=smart&auto=webp&s=f671424ccc9a515342224819f517da2cdd71d47d "MyTimer: A Geeky Timer for Terminal Enthusiasts")](https://www.reddit.com/r/commandline/comments/1fztef4/mytimer_a_geeky_timer_for_terminal_enthusiasts/)

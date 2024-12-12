@@ -1,6 +1,7 @@
 +++
 title = """JQ help needed - output from multiple inner arrays to include info from outer array"""
 date = 2024-11-15T16:33:36.000Z
+expiryDate = 2024-11-15T16:33:36.000Z
 tags = ["reddit","cli"]
 +++
 I'm trying to output multiple inner arrays, but list information from the outer array to make a table.

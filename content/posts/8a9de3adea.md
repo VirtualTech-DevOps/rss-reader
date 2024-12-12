@@ -1,6 +1,7 @@
 +++
 title = """mgitlog - Run `git log` across multiple repositories."""
 date = 2024-12-10T15:38:15.000Z
+expiryDate = 2024-12-10T15:38:15.000Z
 tags = ["reddit","cli"]
 +++
 I’ve put together a small Bash script that _wraps git log_ and calls it across multiple repositories. Works on Mac, Unix, and WSL environments. Personally, I use it at the end of each week to gather my commits for time logging at work.

@@ -1,6 +1,7 @@
 +++
 title = """Interactive find and replace TUI"""
 date = 2024-11-14T15:43:01.000Z
+expiryDate = 2024-11-14T15:43:01.000Z
 tags = ["reddit","cli"]
 +++
 [![Interactive find and replace TUI](https://external-preview.redd.it/utFFTqJxCjafqY250MVy5QNj_-Nr0rB97c6MkHKLzxE.jpg?width=640&crop=smart&auto=webp&s=d389ce57fd21a2586d6b2da6a8e413bcbc0cd808 "Interactive find and replace TUI")](https://www.reddit.com/r/commandline/comments/1gr7nb6/interactive_find_and_replace_tui/)

@@ -1,6 +1,7 @@
 +++
 title = """Update on Rules and Quality Control"""
 date = 2024-10-19T03:23:20.000Z
+expiryDate = 2024-10-19T03:23:20.000Z
 tags = ["reddit","wm"]
 +++
 Hi everyone, it's been a minute since the initial discussion post about quality control issues. Let's talk about it.

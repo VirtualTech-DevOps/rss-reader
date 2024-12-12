@@ -1,6 +1,7 @@
 +++
 title = """termfu - a multi-language debugger with custom layouts"""
 date = 2024-11-03T01:42:51.000Z
+expiryDate = 2024-11-03T01:42:51.000Z
 tags = ["reddit","cli"]
 +++
 [![termfu - a multi-language debugger with custom layouts](https://preview.redd.it/721gsynvclyd1.png?width=640&crop=smart&auto=webp&s=2f354a3b3f0b1cfc6b010f1fea2e8b2b405d84e4 "termfu - a multi-language debugger with custom layouts")](https://www.reddit.com/r/commandline/comments/1gic4u9/termfu_a_multilanguage_debugger_with_custom/)

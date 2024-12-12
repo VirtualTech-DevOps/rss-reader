@@ -1,6 +1,7 @@
 +++
 title = """ParScrape v0.4.6 Released"""
 date = 2024-10-10T00:19:28.000Z
+expiryDate = 2024-10-10T00:19:28.000Z
 tags = ["reddit","cli"]
 +++
 [![ParScrape v0.4.6 Released](https://b.thumbs.redditmedia.com/6tL6sRgrUuPrc6PEXla_M5dSMUbpNKkdrlsaIRPfJgo.jpg "ParScrape v0.4.6 Released")](https://www.reddit.com/r/commandline/comments/1g06c23/parscrape_v046_released/)

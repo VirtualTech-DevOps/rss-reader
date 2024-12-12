@@ -1,6 +1,7 @@
 +++
 title = """Tool for batch downloading assets from GitHub, URLs, and more"""
 date = 2024-10-17T21:35:09.000Z
+expiryDate = 2024-10-17T21:35:09.000Z
 tags = ["reddit","cli"]
 +++
 Hello everyone!

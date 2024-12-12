@@ -1,6 +1,7 @@
 +++
 title = """| rating wms #4"""
 date = 2024-10-15T06:21:09.000Z
+expiryDate = 2024-10-15T06:21:09.000Z
 tags = ["reddit","wm"]
 +++
 Currently choosing place for: bspwm

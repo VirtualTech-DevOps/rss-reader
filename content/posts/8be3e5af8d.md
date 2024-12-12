@@ -1,6 +1,7 @@
 +++
 title = """[Hyprland] a serious attempt with it"""
 date = 2024-10-04T10:01:58.000Z
+expiryDate = 2024-10-04T10:01:58.000Z
 tags = ["reddit","wm"]
 +++
 [![[Hyprland] a serious attempt with it](https://b.thumbs.redditmedia.com/reucCg3h-h9azwb-3kS2WhESRBLNG3EIjfcrzWHtrRw.jpg "[Hyprland] a serious attempt with it")](https://www.reddit.com/r/unixporn/comments/1fvvjp5/hyprland_a_serious_attempt_with_it/)

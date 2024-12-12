@@ -1,6 +1,7 @@
 +++
 title = """Best markdown flashcard SRS?"""
 date = 2024-11-11T21:31:07.000Z
+expiryDate = 2024-11-11T21:31:07.000Z
 tags = ["reddit","cli"]
 +++
 I'm looking for a markdown flashcard SRS-- so kind of like Anki.

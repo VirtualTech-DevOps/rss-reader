@@ -1,6 +1,7 @@
 +++
 title = """Very Simple Command Line Journal"""
 date = 2024-11-30T12:04:03.000Z
+expiryDate = 2024-11-30T12:04:03.000Z
 tags = ["reddit","cli"]
 +++
 Hi, I've created an encrypted-journaling command-line application inspired by [https://jrnl.sh](https://jrnl.sh) It is just a single bash script for the app, and another script for the setup. I wanted something that was dead simple, and something that does not have too many dependencies.

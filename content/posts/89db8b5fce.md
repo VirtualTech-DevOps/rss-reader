@@ -1,6 +1,7 @@
 +++
 title = """[KDE] update in my blog"""
 date = 2024-09-21T02:54:49.000Z
+expiryDate = 2024-09-21T02:54:49.000Z
 tags = ["reddit","wm"]
 +++
 [![[KDE] update in my blog](https://preview.redd.it/zarr7itiu2qd1.png?width=640&crop=smart&auto=webp&s=e32e491b50f2dc252fa20ff705e2db21341217ee "[KDE] update in my blog")](https://www.reddit.com/r/unixporn/comments/1fltepg/kde_update_in_my_blog/)

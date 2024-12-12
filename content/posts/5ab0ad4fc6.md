@@ -1,6 +1,7 @@
 +++
 title = """yTui, an ytfzf alternative ?"""
 date = 2024-09-11T07:53:21.000Z
+expiryDate = 2024-09-11T07:53:21.000Z
 tags = ["reddit","cli"]
 +++
 [https://github.com/Banh-Canh/ytui](https://github.com/Banh-Canh/ytui)

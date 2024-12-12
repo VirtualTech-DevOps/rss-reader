@@ -1,6 +1,7 @@
 +++
 title = """Looking for suggestions for a CLI text editor"""
 date = 2024-09-27T02:25:11.000Z
+expiryDate = 2024-09-27T02:25:11.000Z
 tags = ["reddit","cli"]
 +++
 I'm not personally a fan of the Vim style of doing things (swapping between Insert and Command for typing and navigation), I prefer using modifier keys for hotkeys while also being able to type at the same time. Having an optional command palette is also fine.

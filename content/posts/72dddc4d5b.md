@@ -1,6 +1,7 @@
 +++
 title = """slightly improved passmenu that types username and copies password, plus integration with pass otp"""
 date = 2024-10-17T19:43:23.000Z
+expiryDate = 2024-10-17T19:43:23.000Z
 tags = ["reddit","cli"]
 +++
 Hey! Check out my slightly improved version of passmenu! [https://github.com/proppp/passmenu](https://github.com/proppp/passmenu)

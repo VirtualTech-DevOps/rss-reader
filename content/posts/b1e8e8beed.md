@@ -1,6 +1,7 @@
 +++
 title = """[DevLog #02] Gmail-TUI: Replicating Gmail-Web's Navigation"""
 date = 2024-11-22T05:34:10.000Z
+expiryDate = 2024-11-22T05:34:10.000Z
 tags = ["reddit","cli"]
 +++
 [![[DevLog #02] Gmail-TUI: Replicating Gmail-Web's Navigation](https://external-preview.redd.it/rEIzoI5Bv9EUhn2YlC-cI-dyz8gUoTRxbBpZgJkQud8.gif?width=320&crop=smart&s=56945789c67aba43eddf10d96ebd4803244356da "[DevLog #02] Gmail-TUI: Replicating Gmail-Web's Navigation")](https://www.reddit.com/r/commandline/comments/1gx0q6c/devlog_02_gmailtui_replicating_gmailwebs/)

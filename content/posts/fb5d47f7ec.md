@@ -1,6 +1,7 @@
 +++
 title = """Signls: a non-linear and generative midi sequencer in the terminal (TUI)"""
 date = 2024-11-16T14:25:45.000Z
+expiryDate = 2024-11-16T14:25:45.000Z
 tags = ["reddit","cli"]
 +++
 [![Signls: a non-linear and generative midi sequencer in the terminal (TUI)](https://b.thumbs.redditmedia.com/XP88ssJaBxXxuyo61qDP7izIUElbKxylSnAeTystYLA.jpg "Signls: a non-linear and generative midi sequencer in the terminal (TUI)")](https://www.reddit.com/r/commandline/comments/1gsocsj/signls_a_nonlinear_and_generative_midi_sequencer/)

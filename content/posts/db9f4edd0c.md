@@ -1,6 +1,7 @@
 +++
 title = """| rating tiling wms #4"""
 date = 2024-10-14T02:46:44.000Z
+expiryDate = 2024-10-14T02:46:44.000Z
 tags = ["reddit","wm"]
 +++
 i3WM was selected for **medium**. Now it's time for **hyprland** to shine!

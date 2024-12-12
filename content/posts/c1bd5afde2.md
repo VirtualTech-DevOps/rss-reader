@@ -1,6 +1,7 @@
 +++
 title = """Docker container name generator in your terminal"""
 date = 2024-10-03T06:17:06.000Z
+expiryDate = 2024-10-03T06:17:06.000Z
 tags = ["reddit","cli"]
 +++
 Was looking through my `.bashrc` and found this  

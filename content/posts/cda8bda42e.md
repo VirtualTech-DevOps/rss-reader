@@ -1,6 +1,7 @@
 +++
 title = """Link Unshortener"""
 date = 2024-12-10T15:12:21.000Z
+expiryDate = 2024-12-10T15:12:21.000Z
 tags = ["reddit","cli"]
 +++
 Hi, is there a command line that allows me to batch convert a list of say 4000 lines of short links in a text .txt file to it's real long URLs?

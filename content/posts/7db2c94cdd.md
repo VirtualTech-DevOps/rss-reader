@@ -1,6 +1,7 @@
 +++
 title = """[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal"""
 date = 2024-11-09T22:30:21.000Z
+expiryDate = 2024-11-09T22:30:21.000Z
 tags = ["reddit","cli"]
 +++
 [![[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal](https://external-preview.redd.it/kpfK-umJzs1v0uVwhhICSciKj1koEojHxw0Qa5VuA2c.gif?width=320&crop=smart&s=6a209b6a7d38395024b93c82a81d3eab97170bf2 "[DevLog #01] Gmail-TUI: Replicating The Gmail-Web Experience In Terminal")](https://www.reddit.com/r/commandline/comments/1gnlscc/devlog_01_gmailtui_replicating_the_gmailweb/)

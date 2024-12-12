@@ -1,6 +1,7 @@
 +++
 title = """[i3] First Rice"""
 date = 2024-10-12T14:35:27.000Z
+expiryDate = 2024-10-12T14:35:27.000Z
 tags = ["reddit","wm"]
 +++
 [![[i3] First Rice](https://a.thumbs.redditmedia.com/b_YflRWRqmNIM-OsFUnOMYNGvGxjHwI2SGz7y-rSu54.jpg "[i3] First Rice")](https://www.reddit.com/r/unixporn/comments/1g21goa/i3_first_rice/)

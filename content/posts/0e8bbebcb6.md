@@ -1,6 +1,7 @@
 +++
 title = """Setting Up a Supercharged Neovim Configuration"""
 date = 2024-10-20T20:43:20.000Z
+expiryDate = 2024-10-20T20:43:20.000Z
 tags = ["reddit","cli"]
 +++
 Hey r/commandline !

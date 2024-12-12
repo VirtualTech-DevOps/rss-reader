@@ -1,6 +1,7 @@
 +++
 title = """Tabiew 0.7.1"""
 date = 2024-11-13T22:23:14.000Z
+expiryDate = 2024-11-13T22:23:14.000Z
 tags = ["reddit","cli"]
 +++
 [![Tabiew 0.7.1](https://external-preview.redd.it/qGb1lrbWknaCaMSvo9zQayUJwrqBJX7-jq-TrBZZGlA.jpg?width=640&crop=smart&auto=webp&s=2fbe39c0b1e48f4e5b507e79380945a501ff464a "Tabiew 0.7.1")](https://www.reddit.com/r/commandline/comments/1gqpdjn/tabiew_071/)

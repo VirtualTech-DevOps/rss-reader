@@ -1,6 +1,7 @@
 +++
 title = """Terminal file manager for windows what should I learn?"""
 date = 2024-09-19T10:15:53.000Z
+expiryDate = 2024-09-19T10:15:53.000Z
 tags = ["reddit","cli"]
 +++
 Hi,

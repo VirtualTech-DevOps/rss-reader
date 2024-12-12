@@ -1,6 +1,7 @@
 +++
 title = """[Sway] monochrome get rice"""
 date = 2024-11-24T19:05:19.000Z
+expiryDate = 2024-11-24T19:05:19.000Z
 tags = ["reddit","wm"]
 +++
 [![[Sway] monochrome get rice](https://b.thumbs.redditmedia.com/1R4JXulgPrfaB_Oe2It2SJPWVNPq9WSAFzy7qsROBDc.jpg "[Sway] monochrome get rice")](https://www.reddit.com/r/unixporn/comments/1gyynyi/sway_monochrome_get_rice/)

@@ -1,6 +1,7 @@
 +++
 title = """| DE? WM? Whats That?"""
 date = 2024-11-10T16:07:24.000Z
+expiryDate = 2024-11-10T16:07:24.000Z
 tags = ["reddit","wm"]
 +++
 [![| DE? WM? Whats That?](https://b.thumbs.redditmedia.com/NYlh4ZrwC8RN9hlemy9lRUZJUnf9xkOkIDWESfl_9DY.jpg "| DE? WM? Whats That?")](https://www.reddit.com/r/unixporn/comments/1go3zix/de_wm_whats_that/)

@@ -1,6 +1,7 @@
 +++
 title = """[Hyprland] Kinda proud of my first ricing."""
 date = 2024-10-29T08:42:54.000Z
+expiryDate = 2024-10-29T08:42:54.000Z
 tags = ["reddit","wm"]
 +++
 [![[Hyprland] Kinda proud of my first ricing.](https://b.thumbs.redditmedia.com/MZ5Wh2dWDZXnCiDApD1Nd6gACuA4gX5n9RH1QWVNISU.jpg "[Hyprland] Kinda proud of my first ricing.")](https://www.reddit.com/r/unixporn/comments/1gepvvn/hyprland_kinda_proud_of_my_first_ricing/)

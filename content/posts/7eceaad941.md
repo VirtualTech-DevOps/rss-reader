@@ -1,6 +1,7 @@
 +++
 title = """[qtile] ZIma Blue"""
 date = 2024-10-24T15:10:08.000Z
+expiryDate = 2024-10-24T15:10:08.000Z
 tags = ["reddit","wm"]
 +++
 [![[qtile] ZIma Blue](https://a.thumbs.redditmedia.com/3QffA8bOaY_kNeb07LE4qEGgYkLbRc6ivgGHhdgth40.jpg "[qtile] ZIma Blue")](https://www.reddit.com/r/unixporn/comments/1gb4x5b/qtile_zima_blue/)

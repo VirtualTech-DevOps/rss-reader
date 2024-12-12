@@ -1,6 +1,7 @@
 +++
 title = """Zip-Stream-CLI: Stream and View ZIP File Contents Directly in Your Terminal"""
 date = 2024-09-14T15:59:10.000Z
+expiryDate = 2024-09-14T15:59:10.000Z
 tags = ["reddit","cli"]
 +++
 [![ Zip-Stream-CLI: Stream and View ZIP File Contents Directly in Your Terminal](https://external-preview.redd.it/MT_zdjI-aCSYb8_z6D19lrCsV5E5J09V6btlw6tTOMM.jpg?width=640&crop=smart&auto=webp&s=edd66d33cf5bef72361d90f1c6336047dbda2a0b " Zip-Stream-CLI: Stream and View ZIP File Contents Directly in Your Terminal")](https://www.reddit.com/r/commandline/comments/1fgpcg5/zipstreamcli_stream_and_view_zip_file_contents/)

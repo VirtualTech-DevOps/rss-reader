@@ -1,6 +1,7 @@
 +++
 title = """Troubleshooting nvm Git install instructions"""
 date = 2024-09-19T20:37:02.000Z
+expiryDate = 2024-09-19T20:37:02.000Z
 tags = ["reddit","cli"]
 +++
 Hello!

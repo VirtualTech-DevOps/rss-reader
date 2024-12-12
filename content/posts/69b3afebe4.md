@@ -1,6 +1,7 @@
 +++
 title = """I created a TaskWarrior type tool but for scheduling"""
 date = 2024-10-21T16:02:25.000Z
+expiryDate = 2024-10-21T16:02:25.000Z
 tags = ["reddit","cli"]
 +++
 Several years ago, I dealt with the hassle of having to create a weekly schedule that takes into account all my classes, homework, and studying. If something new came up, it'd mess up the existing schedule.

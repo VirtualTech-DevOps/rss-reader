@@ -1,6 +1,7 @@
 +++
 title = """SmartCat: my attempt at making the most efficient LLM tool for terminal dwellers"""
 date = 2024-10-29T13:06:00.000Z
+expiryDate = 2024-10-29T13:06:00.000Z
 tags = ["reddit","cli"]
 +++
 Hey everyone, I wanted to share and get feedback on my pet project that quickly became a pillar of my current engineering workflow.

@@ -1,6 +1,7 @@
 +++
 title = """weft 🪢 - a vim-styled terminal reader to chat with your books"""
 date = 2024-11-07T20:55:44.000Z
+expiryDate = 2024-11-07T20:55:44.000Z
 tags = ["reddit","cli"]
 +++
 Just hacked together a fun little terminal reader that lets you weave through books with vim-like navigation while chatting with them using AI.

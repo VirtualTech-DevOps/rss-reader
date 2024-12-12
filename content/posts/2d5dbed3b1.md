@@ -1,6 +1,7 @@
 +++
 title = """[Windows] Command for getting the current system locale date format"""
 date = 2024-11-05T05:59:53.000Z
+expiryDate = 2024-11-05T05:59:53.000Z
 tags = ["reddit","cli"]
 +++
 [![[Windows] Command for getting the current system locale date format](https://b.thumbs.redditmedia.com/PI58TSCDesfyZEwhgV694m_O_PXTyQyfi2kSpzyBfpY.jpg "[Windows] Command for getting the current system locale date format")](https://www.reddit.com/r/commandline/comments/1gk03c8/windows_command_for_getting_the_current_system/)

@@ -1,6 +1,7 @@
 +++
 title = """[Xfce] Simple Miku Rice"""
 date = 2024-11-24T10:16:27.000Z
+expiryDate = 2024-11-24T10:16:27.000Z
 tags = ["reddit","wm"]
 +++
 [![[Xfce] Simple Miku Rice](https://b.thumbs.redditmedia.com/-g1XSQaaVrfPxu3ZeqLEouWlcQtUCH1XGHIOdtcFw-s.jpg "[Xfce] Simple Miku Rice")](https://www.reddit.com/r/unixporn/comments/1gynung/xfce_simple_miku_rice/)

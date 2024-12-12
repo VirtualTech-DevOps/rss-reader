@@ -1,6 +1,7 @@
 +++
 title = """| Trying to find a retro style them for KDE Plasma 6 that looks like the screenshot."""
 date = 2024-11-11T18:50:46.000Z
+expiryDate = 2024-11-11T18:50:46.000Z
 tags = ["reddit","wm"]
 +++
 [![| Trying to find a retro style them for KDE Plasma 6 that looks like the screenshot.](https://b.thumbs.redditmedia.com/5hycfsa0aJJ678NmRjFMJ3WyD3RCWsY_mCZYPxSMflc.jpg "| Trying to find a retro style them for KDE Plasma 6 that looks like the screenshot.")](https://www.reddit.com/r/unixporn/comments/1goztqj/trying_to_find_a_retro_style_them_for_kde_plasma/)

@@ -1,6 +1,7 @@
 +++
 title = """Anybody knows some kind of code that i can type into cmd that infinitely opens windows?"""
 date = 2024-10-07T15:30:03.000Z
+expiryDate = 2024-10-07T15:30:03.000Z
 tags = ["reddit","cli"]
 +++
 I think most of the people alredy know that you can run .bat script that opens infinite cmd windows until pc crashes, so is there any way to re-create that, but only writing script in cmd? No .txt and no . bat files.

@@ -1,6 +1,7 @@
 +++
 title = """starship false error"""
 date = 2024-11-23T19:57:25.000Z
+expiryDate = 2024-11-23T19:57:25.000Z
 tags = ["reddit","cli"]
 +++
 HEY, THIS IS SOLVED

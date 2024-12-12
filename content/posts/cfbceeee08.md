@@ -1,6 +1,7 @@
 +++
 title = """Built a Claude AI helper function for fish shell - because iTerm AI only supports OpenAI"""
 date = 2024-11-07T04:21:41.000Z
+expiryDate = 2024-11-07T04:21:41.000Z
 tags = ["reddit","cli"]
 +++
 Hey folks! 👋

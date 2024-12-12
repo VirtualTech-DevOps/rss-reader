@@ -1,6 +1,7 @@
 +++
 title = """[bspwm] Miku!"""
 date = 2024-12-03T13:46:13.000Z
+expiryDate = 2024-12-03T13:46:13.000Z
 tags = ["reddit","wm"]
 +++
 [![[bspwm] Miku!](https://preview.redd.it/c5653raa1n4e1.jpeg?width=640&crop=smart&auto=webp&s=233c2fe36929d99d43e6bee8a948f516e29d8e1a "[bspwm] Miku!")](https://www.reddit.com/r/unixporn/comments/1h5nqe8/bspwm_miku/)

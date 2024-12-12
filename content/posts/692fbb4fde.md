@@ -1,6 +1,7 @@
 +++
 title = """I created a CLI tool for printing `.JSONL` files. I work with them a lot, and I wanted something better than `jq`!"""
 date = 2024-12-11T01:32:15.000Z
+expiryDate = 2024-12-11T01:32:15.000Z
 tags = ["reddit","cli"]
 +++
 submitted by [/u/qemqemqem](https://www.reddit.com/user/qemqemqem)  

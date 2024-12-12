@@ -1,6 +1,7 @@
 +++
 title = """I wrote a very minimal terminal emulator from scratch, and I can use some feedback!"""
 date = 2024-10-29T20:14:10.000Z
+expiryDate = 2024-10-29T20:14:10.000Z
 tags = ["reddit","cli"]
 +++
 [![I wrote a very minimal terminal emulator from scratch, and I can use some feedback!](https://preview.redd.it/th79p9bl6rxd1.jpeg?width=320&crop=smart&auto=webp&s=45bf4decca7029a8a86474ca6dadde1432f09f2c "I wrote a very minimal terminal emulator from scratch, and I can use some feedback!")](https://www.reddit.com/r/commandline/comments/1gf49p4/i_wrote_a_very_minimal_terminal_emulator_from/)
